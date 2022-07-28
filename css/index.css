@@ -67,7 +67,7 @@ html{
 #home::before{
     content: "";
     position: absolute;
-    background:url('../pics/gym\ pic.jpg') no-repeat center center/cover;
+    background-color:red;
     padding-top: 300px;
     margin-bottom: 80px;
     height: 100%;
